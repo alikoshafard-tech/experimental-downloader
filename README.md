@@ -1,0 +1,20 @@
+# 📥 Download Links
+Generated on: Wed May 13 18:08:37 UTC 2026
+
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z01](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z01)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z02](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z02)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z03](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z03)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z04](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z04)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z05](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z05)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z06](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z06)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z07](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z07)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z08](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z08)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z09](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z09)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z10](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z10)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z11](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z11)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z12](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z12)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z13](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z13)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z14](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z14)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z15](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z15)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z16](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z16)
+- [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.zip)
