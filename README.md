@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Wed May 13 18:08:37 UTC 2026
+Generated on: Wed May 13 19:08:27 UTC 2026
 
 - [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z01](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z01)
 - [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z02](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z02)
@@ -18,3 +18,4 @@ Generated on: Wed May 13 18:08:37 UTC 2026
 - [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z15](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z15)
 - [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].z16](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.z16)
 - [Download CS50x_2026_-_Lecture_1_-_C_[SlqjA04_dpk].zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_1_-_C_%5BSlqjA04_dpk%5D.zip)
+- [Download How_to_Extract_Split_ZIP_Files_Online_(Z01,_Z02,_Z03_...)_[tOXd5oeeb7A].zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/How_to_Extract_Split_ZIP_Files_Online_%28Z01%2C_Z02%2C_Z03_...%29_%5BtOXd5oeeb7A%5D.zip)
