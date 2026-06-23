@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Fri Jun 19 14:57:07 UTC 2026
+Generated on: Tue Jun 23 18:05:51 UTC 2026
 
 - [Download CS50x_2026_-_Lecture_0_-_Scratch_[UuIEbpQms8o].z01](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_0_-_Scratch_%5BUuIEbpQms8o%5D.z01)
 - [Download CS50x_2026_-_Lecture_0_-_Scratch_[UuIEbpQms8o].z02](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_0_-_Scratch_%5BUuIEbpQms8o%5D.z02)
@@ -117,4 +117,5 @@ Generated on: Fri Jun 19 14:57:07 UTC 2026
 - [Download CS50x_2026_-_Lecture_3_-_Algorithms_[6Svu_ae5ebk].live_chat.z30](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_3_-_Algorithms_%5B6Svu_ae5ebk%5D.live_chat.z30)
 - [Download CS50x_2026_-_Lecture_3_-_Algorithms_[6Svu_ae5ebk].live_chat.z31](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_3_-_Algorithms_%5B6Svu_ae5ebk%5D.live_chat.z31)
 - [Download CS50x_2026_-_Lecture_3_-_Algorithms_[6Svu_ae5ebk].live_chat.zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/CS50x_2026_-_Lecture_3_-_Algorithms_%5B6Svu_ae5ebk%5D.live_chat.zip)
+- [Download Dire_Straits_-_Sultans_Of_Swing_(Official_Music_Video)_[h0ffIJ7ZO4U].zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/Dire_Straits_-_Sultans_Of_Swing_%28Official_Music_Video%29_%5Bh0ffIJ7ZO4U%5D.zip)
 - [Download How_to_Extract_Split_ZIP_Files_Online_(Z01,_Z02,_Z03_...)_[tOXd5oeeb7A].zip](https://github.com/alikoshafard-tech/experimental-downloader/raw/videos/videos/How_to_Extract_Split_ZIP_Files_Online_%28Z01%2C_Z02%2C_Z03_...%29_%5BtOXd5oeeb7A%5D.zip)
